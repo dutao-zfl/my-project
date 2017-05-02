@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "description": "A legion ant design framework wrapper",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "brain-cli dev"
+  },
+  "author": "duanguang She",
+  "license": "MIT",
+  "devDependencies": {
+    "brain-cli": "latest",
+    "babel-cli": "^6.14.0",
+    "rimraf": "^2.5.4"
+  },
+  "dependencies": {
+    "antd": "^2.7.4",
+    "basics-widget": "latest",
+    "middle-core": "latest"
+  }
+}
